@@ -1,4 +1,4 @@
-# Data Scientist Nanodegree
+# Advanced Data Analysis Nanodegree
 ## Students_Performance_Exploration
 
 ### Introduction
