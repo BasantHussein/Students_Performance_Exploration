@@ -3,7 +3,7 @@
 
 ### Introduction
 
-• Investigated the students performance according to the data which related to their scores in the subjects and other factors based mainly on data visualization and represented it in a presentation
+• Investigated the student's performance according to the data which related to their scores in the subjects and other factors based mainly on data visualization and represented it in a presentation
 • Statistical analysis was used
 
 ### Install
